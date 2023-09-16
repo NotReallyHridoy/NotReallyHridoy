@@ -51,4 +51,4 @@ You can find me on:
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=AnonymousX2005&count_private=true&show_icons=true&hide_title=true&include_all_commits=false&layout=compact&theme=radical)
 
 ## Top Languages ⚡️
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnonymousX2005&langs_count=10&layout=compact&theme=radical)
+[![Lines of Code](https://api.githubtrends.io/user/svg/AnonymousX2005/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=dark)](https://AnonymousX2005.github.io)
