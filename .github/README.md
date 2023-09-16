@@ -1,4 +1,4 @@
-# ʜɪ ! ɪᴛ's ᴀɴᴏɴʏᴍᴏᴜs <img src="https://raw.githubusercontent.com/AnonymousX2005/AnonymousX2005/master/wave.gif" width="30px">
+# ʜᴇʏ ᴛʜᴇʀᴇ ! ɪᴛ's ᴀɴᴏɴʏᴍᴏᴜs <img src="https://raw.githubusercontent.com/AnonymousX2005/AnonymousX2005/master/wave.gif" width="30px">
 
 [![Profile views](https://komarev.com/ghpvc/?username=AnonymousX2005&label=Profile%20views&style=for-the-badge)](https://github.com/AnonymousX2005)
 
@@ -44,11 +44,9 @@ You can find me on:
 ![Linode](https://img.shields.io/static/v1?style=for-the-badge&message=Linode&color=00A95C&logo=Linode&logoColor=FFFFFF&label=)
 ![Cloudflare](https://img.shields.io/static/v1?style=for-the-badge&message=Cloudflare&color=F38020&logo=Cloudflare&logoColor=FFFFFF&label=)
 ![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=)
-![Xcode](https://img.shields.io/static/v1?style=for-the-badge&message=Xcode&color=147EFB&logo=Xcode&logoColor=FFFFFF&label=)
-![Poetry](https://img.shields.io/static/v1?style=for-the-badge&message=Poetry&color=60A5FA&logo=Poetry&logoColor=FFFFFF&label=)
 
 ## Stats ⚡️
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=AnonymousX2005&count_private=true&show_icons=true&hide_title=true&include_all_commits=false&layout=compact&theme=radical)
 
 ## Top Languages ⚡️
-[![Lines of Code](https://api.githubtrends.io/user/svg/AnonymousX2005/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=dark)](https://AnonymousX2005.github.io)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnonymousX2005&langs_count=10&layout=compact&theme=radical)
