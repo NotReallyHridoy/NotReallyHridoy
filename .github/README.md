@@ -1,5 +1,7 @@
 # ʜɪ ! ɪᴛ's ᴀɴᴏɴʏᴍᴏᴜs <img src="https://raw.githubusercontent.com/AnonymousX2005/AnonymousX2005/master/wave.gif" width="30px">
 
+[![Profile views](https://komarev.com/ghpvc/?username=AnonymousX2005&label=Profile%20views&style=for-the-badge)](https://github.com/AnonymousX2005)
+
 ## Available ⬇️
 You can find me on:
 
