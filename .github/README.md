@@ -1,12 +1,12 @@
-# ʜɪ! ɪᴛ's ᴀɴᴏɴʏᴍᴏᴜs <img src="https://raw.githubusercontent.com/AnonymousX2005/AnonymousX2005/master/wave.gif" width="30px">
+# ʜɪ! ɪᴛ's ʜʀɪᴅᴏʏ <img src="https://raw.githubusercontent.com/NotReallyHridoy/NotReallyHridoy/master/wave.gif" width="30px">
 
-[![Profile views](https://komarev.com/ghpvc/?username=AnonymousX2005&label=Profile%20views&style=for-the-badge)](https://github.com/AnonymousX2005)
+[![Profile views](https://komarev.com/ghpvc/?username=NotReallyHridoy&label=Profile%20views&style=for-the-badge)](https://github.com/NotReallyHridoy)
 
 ## Available ⬇️
 You can find me on:
 
-[![Telegram](https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&color=d24e62&logo=Telegram&logoColor=FFFFFF&label=)](https://AnonymousX2005.t.me/)
-[![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=)](https://in.linkedin.com/in/AnonymousX2005)
+[![Telegram](https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&color=d24e62&logo=Telegram&logoColor=FFFFFF&label=)](https://NotReallyHridoy.t.me/)
+[![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=)](https://in.linkedin.com/in/NotReallyHridoy)
 
 ## 🛠️ Dev Tools
 
@@ -46,7 +46,7 @@ You can find me on:
 ![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=)
 
 ## Stats ⚡️
-![My Github Stats](https://github-readme-stats.vercel.app/api?username=AnonymousX2005&count_private=true&show_icons=true&hide_title=true&include_all_commits=false&layout=compact&theme=radical)
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=NotReallyHridoy&count_private=true&show_icons=true&hide_title=true&include_all_commits=false&layout=compact&theme=radical)
 
 ## Top Languages ⚡️
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnonymousX2005&langs_count=10&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NotReallyHridoy&langs_count=10&layout=compact&theme=radical)
