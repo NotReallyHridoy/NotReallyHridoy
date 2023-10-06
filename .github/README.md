@@ -5,8 +5,8 @@
 ## Available ⬇️
 You can find me on:
 
-[![Telegram](https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&color=d24e62&logo=Telegram&logoColor=FFFFFF&label=)](https://NotReallyHridoy.t.me/)
-[![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=)](https://in.linkedin.com/in/NotReallyHridoy)
+[![Telegram](https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&color=0A66C2&logo=Telegram&logoColor=FFFFFF&label=)](https://NotReallyHridoy.t.me/)
+[![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=d24e62&logo=LinkedIn&logoColor=FFFFFF&label=)](https://in.linkedin.com/in/NotReallyHridoy)
 
 ## 🛠️ Dev Tools
 
