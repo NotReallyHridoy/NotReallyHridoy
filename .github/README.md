@@ -1,4 +1,4 @@
-# ʜɪ! ɪᴛ's ʜʀɪᴅᴏʏ <img src="https://raw.githubusercontent.com/NotReallyHridoy/NotReallyHridoy/master/wave.gif" width="30px">
+## ʜɪ! ɪᴛ's ʜʀɪᴅᴏʏ <img src="https://raw.githubusercontent.com/NotReallyHridoy/NotReallyHridoy/master/wave.gif" width="30px">
 
 [![Profile views](https://komarev.com/ghpvc/?username=NotReallyHridoy&label=Profile%20views&style=for-the-badge)](https://github.com/NotReallyHridoy)
 
